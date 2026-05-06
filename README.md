@@ -31,7 +31,8 @@ A simple and powerful **Random Password Generator** built using **HTML, CSS, and
 
 ## 📷 Preview
 
-<img width="572" height="679" alt="Screenshot 2026-05-06 at 12 30 49 PM" src="https://github.com/user-attachments/assets/160b8d06-c633-4c1b-a44d-3a1c99542cd9" />
+<img width="1108" height="675" alt="Screenshot 2026-05-06 at 12 32 25 PM" src="https://github.com/user-attachments/assets/c9955f62-c64e-416b-a896-a2185c2ea099" />
+
 
 ---
 
