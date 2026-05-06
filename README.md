@@ -1,3 +1,4 @@
+
 # 🔐 Random Password Generator
 
 A simple and powerful **Random Password Generator** built using **HTML, CSS, and JavaScript**. This web-based tool helps users create strong, secure, and customizable passwords instantly.
@@ -30,7 +31,7 @@ A simple and powerful **Random Password Generator** built using **HTML, CSS, and
 
 ## 📷 Preview
 
-*(Add a screenshot of your project here)*
+<img width="572" height="679" alt="Screenshot 2026-05-06 at 12 30 49 PM" src="https://github.com/user-attachments/assets/160b8d06-c633-4c1b-a44d-3a1c99542cd9" />
 
 ---
 
