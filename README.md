@@ -1,7 +1,13 @@
-
 # 🔐 Random Password Generator
 
 A simple and powerful **Random Password Generator** built using **HTML, CSS, and JavaScript**. This web-based tool helps users create strong, secure, and customizable passwords instantly.
+
+---
+
+## 🌐 Live Demo
+
+🚀 **Try the Project Here:**
+[Random Password Generator Live Demo](https://password-generator-ecru-six-27.vercel.app/?utm_source=chatgpt.com)
 
 ---
 
@@ -31,8 +37,7 @@ A simple and powerful **Random Password Generator** built using **HTML, CSS, and
 
 ## 📷 Preview
 
-<img width="1108" height="675" alt="Screenshot 2026-05-06 at 12 32 25 PM" src="https://github.com/user-attachments/assets/c9955f62-c64e-416b-a896-a2185c2ea099" />
-
+*(Add a screenshot of your project here)*
 
 ---
 
@@ -48,7 +53,7 @@ A simple and powerful **Random Password Generator** built using **HTML, CSS, and
 
 ## 📁 Project Structure
 
-```
+```bash
 Random-Password-Generator/
 │
 ├── index.html      # Main HTML file
@@ -118,5 +123,3 @@ This project is open-source and available under the **MIT License**.
 ## ⭐ Support
 
 If you like this project, please give it a ⭐ on GitHub!
-
----
